@@ -38,3 +38,14 @@ Predict wine quality using:
 - **Evaluation Metrics**: Classification report, Confusion matrix
 - **Best Model**: Random Forest (handles feature interactions effectively)
 
+<img width="1369" height="440" alt="Screenshot 2025-09-09 161221" src="https://github.com/user-attachments/assets/a2ccb8df-44d3-4eb7-bea2-0e3e8be7dfb2" />
+<img width="922" height="492" alt="Screenshot 2025-09-09 161254" src="https://github.com/user-attachments/assets/e91b915a-8bc0-447e-9c72-233cf3213d20" />
+<img width="1475" height="650" alt="Screenshot 2025-09-09 161413" src="https://github.com/user-attachments/assets/0b21a70a-1f5c-47c8-a11b-8580652609bf" />
+<img width="1055" height="493" alt="Screenshot 2025-09-09 161445" src="https://github.com/user-attachments/assets/53bcb688-799d-47d0-95f6-8c92864f1066" />
+<img width="1419" height="541" alt="Screenshot 2025-09-09 161516" src="https://github.com/user-attachments/assets/8d7d3463-f4ff-471f-bf4e-9d3a4836760c" />
+
+
+
+
+
+
