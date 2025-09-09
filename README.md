@@ -1,5 +1,4 @@
-# wine-quality-prediction
-Machine Learning model to predict red wine quality using physicochemical properties
+
 # Wine Quality Prediction 🍷
 
 A machine learning project that predicts red wine quality based on physicochemical properties using multiple classification algorithms.
